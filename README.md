@@ -8,7 +8,7 @@ Portions Copyright (c) 2012-2013, The Cryptonote developers
 - Web: [getmonero.org](https://getmonero.org)
 - Forum: [forum.getmonero.org](https://forum.getmonero.org)
 - Mail: [dev@getmonero.org](mailto:dev@getmonero.org)
-- GitHub: [https://github.com/monero-project/monero](https://github.com/monero-project/monero)
+- GitHub: [https://github.com/monero-classic/monero](https://github.com/monero-classic/monero)
 - IRC: [#monero-dev on Freenode](http://webchat.freenode.net/?randomnick=1&channels=%23monero-dev&prompt=1&uio=d4)
 
 ## Build
@@ -32,7 +32,7 @@ Portions Copyright (c) 2012-2013, The Cryptonote developers
 | Type      | Status |
 |-----------|--------|
 | Coverity  | [![Coverity Status](https://scan.coverity.com/projects/9657/badge.svg)](https://scan.coverity.com/projects/9657/)
-| Coveralls | [![Coveralls Status](https://coveralls.io/repos/github/monero-project/monero/badge.svg?branch=master)](https://coveralls.io/github/monero-project/monero?branch=master)
+| Coveralls | [![Coveralls Status](https://coveralls.io/repos/github/monero-classic/monero/badge.svg?branch=master)](https://coveralls.io/github/monero-classic/monero?branch=master)
 | License   | [![License](https://img.shields.io/badge/license-BSD3-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 ## Introduction
