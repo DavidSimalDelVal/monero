@@ -1,4 +1,4 @@
-# Monero-Classic(This project is a fork of Monero Project and based on monero v0.11.1.0)
+# Monero-Classic
 
 Copyright (c) 2014-2017, The Monero Classic Project
 Portions Copyright (c) 2012-2013, The monero-classic developers
