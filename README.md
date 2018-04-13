@@ -5,7 +5,7 @@ Portions Copyright (c) 2012-2013, The monero-classic developers
 
 ## Development Resources
 
-- Web: [monero-classic.org](https://monero-classic.org)
+- Web: [monero-classic.org](http://monero-classic.org)
 - Forum: [forum.getmonero.org](https://forum.getmonero.org)
 - Mail: [dev@getmonero.org](mailto:dev@getmonero.org)
 - GitHub: [https://github.com/monero-classic/monero](https://github.com/monero-classic/monero)
