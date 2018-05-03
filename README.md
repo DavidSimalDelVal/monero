@@ -6,10 +6,15 @@ Portions Copyright (c) 2012-2013, The monero-classic developers
 ## Development Resources
 
 - Web: [monero-classic.org](http://monero-classic.org)
-- Forum: [forum.getmonero.org](https://forum.getmonero.org)
 - Mail: [dev@monero-classic.org](mailto:dev@monero-classic.org)
 - GitHub: [https://github.com/monero-classic/monero](https://github.com/monero-classic/monero)
-- IRC: [#monero-dev on Freenode](http://webchat.freenode.net/?randomnick=1&channels=%23monero-dev&prompt=1&uio=d4)
+
+## Social Media
+
+- Twitter:[https://twitter.com/xmccurrency](https://twitter.com/xmccurrency)
+- Telegram Group:[https://t.me/xmccurrency](https://t.me/xmccurrency)
+- Bitcointalk:[https://bitcointalk.org/index.php?topic=3256439.msg33919963#msg33919963](https://bitcointalk.org/index.php?topic=3256439.msg33919963#msg33919963)
+- QQ Group:[700807911 547278715]
 
 ## Build
 
