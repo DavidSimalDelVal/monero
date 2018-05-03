@@ -143,7 +143,6 @@ int main(int argc, char const * argv[])
     epee::debug::g_test_dbg_lock_sleep() = command_line::get_arg(vm, command_line::arg_test_dbg_lock_sleep);
 
     std::string db_type = command_line::get_arg(vm, command_line::arg_db_type);
-
     // verify that blockchaindb type is valid
     if(!cryptonote::blockchain_valid_db_type(db_type))
     {
@@ -157,7 +156,7 @@ int main(int argc, char const * argv[])
     auto data_dir_arg = testnet_mode ? command_line::arg_testnet_data_dir : command_line::arg_data_dir;
 
     // data_dir
-    //   default: e.g. ~/.bitmonero/ or ~/.bitmonero/testnet
+    //   default: e.g. ~/.bitmoneroclassic/ or ~/.bitmoneroclassic/testnet
     //   if data-dir argument given:
     //     absolute path
     //     relative path: relative to cwd
